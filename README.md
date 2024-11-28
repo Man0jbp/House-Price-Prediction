@@ -1,6 +1,6 @@
 # House-Price-Prediction
 This project implements a simple Linear Regression model to predict house prices based on their area. The model is built using Python and demonstrates a basic supervised learning approach.
-Dataset
+# Dataset
 The dataset contains the following features:
 
 area: Size of the house in square feet.
