@@ -12,10 +12,12 @@ Area (sq ft)	Price (USD)
 3200	610,000
 3600	680,000
 4000	725,000
-Project Structure
-homeprices.csv: Dataset used for training the model.
-Linear Regression Implementation: Python script that builds and evaluates the model.
-Visualization: Graphs showing the relationship between house area and price.
-Requirements
-Python 3.x
-Libraries: pandas, numpy, matplotlib, scikit-learn
+# Project Structure
+1) homeprices.csv:Dataset used for training the model.
+
+2) Linear Regression Implementation: Python script that builds and evaluates the model.
+   
+3) Visualization: Graphs showing the relationship between house area and price.
+# Requirements
+1) Python 3.x
+2) Libraries: pandas, numpy, matplotlib, scikit-learn
