@@ -6,7 +6,7 @@ The dataset contains the following features:
 area: Size of the house in square feet.
 price: Price of the house in USD.
 Sample Data
- Area (sq ft)	 /    Price (USD)/
+## Area (sq ft)	 /    ##Price (USD)/
  2600	              550,000
  3000.              565,000
  3200	              610,000
