@@ -6,12 +6,17 @@ The dataset contains the following features:
 area: Size of the house in square feet.
 price: Price of the house in USD.
 Sample Data
-## Area (sq ft)	 /    #Price (USD)/
-1) 2600	              550,000
-2) 3000.              565,000
-3) 3200	               610,000
-4) 3600	              680,000
-5) 4000	              725,000
+area,price
+2600,550000
+3000,565000
+3200,610000
+3600,680000
+4000,725000
+4200,750000
+4500,800000
+4800,850000
+5000,900000
+5500,1000000
 # Project Structure
 1) homeprices.csv:Dataset used for training the model.
 
